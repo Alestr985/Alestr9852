@@ -1,0 +1,12 @@
+#test{
+	background:purple;
+	width:100px;
+	height:100px;
+	margin: 100px 100px 100px 100px;
+}
+#age{
+	display:none;
+}
+#cat{
+	display:none;
+}
